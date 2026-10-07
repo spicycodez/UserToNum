@@ -1,7 +1,7 @@
 import telebot, requests, time
 from telebot.types import InlineKeyboardMarkup, InlineKeyboardButton
 
-BOT_TOKEN = "BOT_TOKEN" #Put token here
+BOT_TOKEN = "8078339956:AAG-OH0m-BpcrmIfOIyaGjVxcFJba5aRi5E" #Put token here
 API_KEY   = "crazy" #Dont change key
 
 bot = telebot.TeleBot(BOT_TOKEN)
