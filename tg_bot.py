@@ -18,8 +18,8 @@ FORCE_JOIN_CHANNEL_2 = "@SpicyxNetwork"
 
 # Public usernames used for the Join buttons.
 # These should normally match the channels above when using @username.
-FORCE_JOIN_LINK_1 = "https://t.me/Attracted2Her"
-FORCE_JOIN_LINK_2 = "https://t.me/Attracted2Her"
+FORCE_JOIN_LINK_1 = "https://t.me/SpIcYxNeTwOrK"
+FORCE_JOIN_LINK_2 = "https://t.me/SpIcYxNeTwOrK"
 
 # =========================
 # BOT
