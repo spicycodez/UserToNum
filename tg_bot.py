@@ -14,12 +14,12 @@ API_KEY = "crazy"  # Keep unchanged
 # Use @channelusername OR numeric channel ID.
 # Set to None to disable that channel.
 FORCE_JOIN_CHANNEL_1 = "@SpicyxNetwork"
-FORCE_JOIN_CHANNEL_2 = None
+FORCE_JOIN_CHANNEL_2 = "@SpicyxNetwork"
 
 # Public usernames used for the Join buttons.
 # These should normally match the channels above when using @username.
-FORCE_JOIN_LINK_1 = None
-FORCE_JOIN_LINK_2 = None
+FORCE_JOIN_LINK_1 = "https://t.me/Attracted2Her"
+FORCE_JOIN_LINK_2 = "https://t.me/Attracted2Her"
 
 # =========================
 # BOT
