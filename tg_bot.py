@@ -18,7 +18,7 @@ FORCE_JOIN_CHANNEL_2 = None
 
 # Public usernames used for the Join buttons.
 # These should normally match the channels above when using @username.
-FORCE_JOIN_LINK_1 = "https://t.me/YourChannel1"
+FORCE_JOIN_LINK_1 = None
 FORCE_JOIN_LINK_2 = None
 
 # =========================
