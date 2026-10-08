@@ -17,12 +17,12 @@ OWNER_ID = 7581938684
 # Force Join Configuration
 # Use @channelusername OR numeric channel ID.
 # Set to None to disable that channel.
-FORCE_JOIN_CHANNEL_1 = "@YourChannel1"
-FORCE_JOIN_CHANNEL_2 = None
+FORCE_JOIN_CHANNEL_1 = "@SpicyxNetwork"
+FORCE_JOIN_CHANNEL_2 = "@SpicyxNetwork"
 
 # Public usernames/links used for Join buttons.
-FORCE_JOIN_LINK_1 = "https://t.me/YourChannel1"
-FORCE_JOIN_LINK_2 = None
+FORCE_JOIN_LINK_1 = "https://t.me/SpicyxNetwork"
+FORCE_JOIN_LINK_2 = "https://t.me/SpicyxNetwork"
 
 
 # =========================
